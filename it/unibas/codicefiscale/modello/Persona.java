@@ -85,10 +85,4 @@ public class Persona {
         return sb.toString();
     }
 
-    public String prova() {
-        return "prova git";
-    }
-    
-   
-
 }
